@@ -10,7 +10,7 @@ A Streamlit web application that performs **Exploratory Data Analysis (EDA)**, *
 
 ### Members:
 -
--
+-Limpiada, Erin Brent P.
 - Papa, Rishon Simone V.
 
 [Palagay nalang ng mga names sa members para ma-add kayo sa commit history - P.]
